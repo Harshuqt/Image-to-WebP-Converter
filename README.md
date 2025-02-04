@@ -2,6 +2,8 @@
 
 A GUI application that converts images to the WebP format, optimized for web use.
 
+![image alt](https://github.com/Harshuqt/Image-to-WebP-Converter/blob/acb68ac0c81f58fc22fdb6965a398f8d4a800a2c/Image-to-WebP-Converter.webp)
+
 ## Features
 
 *   Convert multiple images at once
